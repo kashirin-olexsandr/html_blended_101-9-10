@@ -1,0 +1,37 @@
+/* Reset styles */
+body {
+  font-family: Open Sans, sans-serif;
+  background: #fff;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  width: 1360px;
+  margin: 0 auto;
+}

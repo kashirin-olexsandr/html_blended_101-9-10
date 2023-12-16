@@ -1,4 +1,4 @@
-body {
+/* body {
   font-family: Open Sans, sans-serif;
   background: #fff;
 }
@@ -20,8 +20,8 @@ img {
 }
 a {
   text-decoration: none;
-}
-.header {
+} */
+/* .header {
   position: absolute;
   left: 0;
   right: 0;
@@ -67,7 +67,9 @@ a {
 .nav-list {
   display: flex;
   gap: 40px;
-}
+} */
+
+
 .hero-section {
   padding: 280px 0;
   background-color: darkgray;
